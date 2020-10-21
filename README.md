@@ -1,0 +1,2 @@
+# KAutoHelper.dll
+KAutoHelper.dll
